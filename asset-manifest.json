@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//ari1111i.github.io/main-expense-tracker/static/css/main.c19c4547.css",
+    "main.js": "/https//ari1111i.github.io/main-expense-tracker/static/js/main.d2084a32.js",
+    "index.html": "/https//ari1111i.github.io/main-expense-tracker/index.html",
+    "main.c19c4547.css.map": "/https//ari1111i.github.io/main-expense-tracker/static/css/main.c19c4547.css.map",
+    "main.d2084a32.js.map": "/https//ari1111i.github.io/main-expense-tracker/static/js/main.d2084a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19c4547.css",
+    "static/js/main.d2084a32.js"
+  ]
+}
